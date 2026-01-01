@@ -21,7 +21,7 @@ A simple web application to view DOCX documents directly from the frontend. The 
    ```bash
    git clone <FRONTEND_REPO_URL>
 
-2. **Change directory**
+2. **Clone the repository**
    ```bash
    cd DocxViewer-FE
 
