@@ -23,7 +23,7 @@ A simple web application to view DOCX documents directly from the frontend. The 
 
 2. **Change directory**
    ```bash
-  cd DocxViewer-FE
+   cd DocxViewer-FE
 
 3. **Install dependencies**
    ```bash
